@@ -13,7 +13,7 @@
     "noflo/noflo-runtime-base": "*",
     "bergie/emitter": "*",
     "broofa/node-uuid": "*",
-    "noflo/noflo": "*",
+    "noflo/noflo": "*"
   },
   "remotes": [
     "https://raw.githubusercontent.com"
