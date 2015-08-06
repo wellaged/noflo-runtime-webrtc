@@ -14,7 +14,6 @@
     "bergie/emitter": "*",
     "broofa/node-uuid": "*",
     "noflo/noflo": "*",
-    "noflo/noflo-core": "*"
   },
   "remotes": [
     "https://raw.githubusercontent.com"
